@@ -1,4 +1,4 @@
-package main.java.shapes;
+package main.java.prototype.shapes;
 
 public class Rectangle extends Shape {
     public int width;

@@ -1,8 +1,8 @@
-package main.java.shapes;
+package main.java.prototype.shapes;
 
-import main.java.shapes.Circle;
-import main.java.shapes.Rectangle;
-import main.java.shapes.Shape;
+import main.java.prototype.shapes.Circle;
+import main.java.prototype.shapes.Rectangle;
+import main.java.prototype.shapes.Shape;
 
 import java.util.ArrayList;
 import java.util.List;

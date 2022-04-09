@@ -1,4 +1,4 @@
-package main.java.shapes;
+package main.java.prototype.shapes;
 
 public class Circle extends Shape {
     public int radius;
